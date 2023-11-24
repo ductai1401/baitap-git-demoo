@@ -1,3 +1,8 @@
+let a = 10
+let b = 2
+
+
+console.log(a / b)
 let a = 3
 let b = 4
 let c = 5
